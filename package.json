@@ -1,0 +1,19 @@
+{
+  "name": "webpack_learn",
+  "version": "1.0.0",
+  "description": "webpack自定义规则测试学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxl12138/webpack_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxl12138/webpack_learn/issues"
+  },
+  "homepage": "https://github.com/liuxl12138/webpack_learn#readme"
+}
